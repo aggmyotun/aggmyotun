@@ -3,23 +3,23 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/aggmyotun/crack-the-algos)
 - <b>Machine Learning Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Comparing Machine Learning Algorithms for Classification](https://github.com/aggmyotun/realworld-ml-classification) 
 - <b>Full Stack Web App</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Scheduling Website for Workflow Management](https://github.com/aggmyotun/smart-scheduler-web)
 - <b>C# (.NET Multiplatform Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Integrated Fitness Application](https://github.com/aggmyotun/truecore-fitness-app)
 - <b>Big Data Programming Project</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Mobility Patterns Analysis](https://github.com/aggmyotun/mobility-patterns-analysis)
 
 <h2> Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/aung-myo-tun-8261a228b/" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/nareshkm_/?utm_source=qr#" />][instagram]
 
 
 [youtube]: https://www.youtube.com/c/joshmadakor
