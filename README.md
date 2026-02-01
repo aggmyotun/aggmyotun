@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aung! <br/><a href="https://github.com/aggmyotun">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Developer</a>, CS graduate</a> 
+<h1>Hi, I'm Aung! <br/><a href=>Programmer</a>, <a href=>Developer</a>, CS graduate</a> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
