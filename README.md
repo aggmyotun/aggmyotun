@@ -21,7 +21,7 @@
 [<img align="left" alt="Aung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aung | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]:
 [instagram]: https://www.instagram.com/nareshkm_/
 [linkedin]: https://www.linkedin.com/in/aung-myo-tun-8261a228b/
 
