@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aung! <br/><a >Programmer</a>, <a >Developer</a>, CS graduate</a> 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Featured Projects:</h2>
 
 - <b>Machine Learning Project</b>
   - [Comparing Machine Learning Algorithms for Classification](https://github.com/aggmyotun/realworld-ml-classification) 
