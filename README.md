@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/aggmyotun/crack-the-algos)
 - <b>Machine Learning Project</b>
   - [Comparing Machine Learning Algorithms for Classification](https://github.com/aggmyotun/realworld-ml-classification) 
 - <b>Full Stack Web App</b>
   - [Scheduling Website for Workflow Management](https://github.com/aggmyotun/smart-scheduler-web)
 - <b>C# (.NET Multiplatform Applications)</b>
   - [Integrated Fitness Application](https://github.com/aggmyotun/truecore-fitness-app)
+- <b>WMS(in progress)</b>
+  - [Warehouse Management System for a wastematerial tradinng business]([https://github.com/aggmyotun/crack-the-algos](https://github.com/aggmyotun/aung-myint-wms)
 - <b>Big Data Programming Project</b>
   - [Mobility Patterns Analysis](https://github.com/aggmyotun/mobility-patterns-analysis)
 
