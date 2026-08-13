@@ -9,7 +9,7 @@
 - <b>C# (.NET Multiplatform Applications)</b>
   - [Integrated Fitness Application](https://github.com/aggmyotun/truecore-fitness-app)
 - <b>WMS(in progress)</b>
-  - [Warehouse Management System for a wastematerial tradinng business](https://github.com/aggmyotun/aung-myint-wms)
+  - [Warehouse Management System for a wastematerial trading business](https://github.com/aggmyotun/aung-myint-wms)
 - <b>Big Data Programming Project</b>
   - [Mobility Patterns Analysis](https://github.com/aggmyotun/mobility-patterns-analysis)
 
